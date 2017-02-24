@@ -1,0 +1,9 @@
+Package: io.github.slogutis.waunlimtedsize
+Name: WAUnlimtedSize
+Depends: mobilesubstrate
+Version: 2.17.5
+Architecture: iphoneos-arm
+Description: Send Large File in WhatsApp 
+Maintainer: iHack102
+Author: iHack102 <d-_-x@hotmail.com>
+Section: Tweaks
