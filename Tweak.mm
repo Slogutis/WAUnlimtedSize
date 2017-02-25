@@ -1,4 +1,4 @@
-//This Tweak under GPL license you can modify and compile it for yourself or jailbreak comuunicate //
+//This Tweak under GPL license you can modify and compile it for yourself or jailbreak c //
 
 
 
